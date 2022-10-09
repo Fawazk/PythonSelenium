@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from config import PASSWORD,USERNAME
 
-users = ['']
+users = ['mo_irfan._','s_a_hd___']
 
 browser = webdriver.Chrome(
     executable_path='/home/fawaz/Documents/chromeDriver/chromedriver')
